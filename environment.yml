@@ -52,4 +52,5 @@ dependencies:
   - ipython-genutils==0.1.0
   - jupyter-client==4.2.2
   - jupyter-core==4.1.0
+  - lxml==3.6.0
 
